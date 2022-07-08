@@ -19,14 +19,14 @@ Zoom sessions will be recorded and shared after each class. Please email/WhatsAp
 There is an introductory session followed by a series of sessions for more in-depth discussion of public health surveillance. We will start with traditional surveillance methods followed by additional surveillance strategies. The following schedule may be revised depending on availability of instructors and modifications to improve learning/provide additional practice. If there are updates to the schedule, they will be announced and sent via email. 
 
 * [Review of 2021 Modeling Workshop](../main/Slides/Modeling_for_Public_Health_Review_student.pdf)
-* [Introduction & Surveillance Goals](../main/Slides/Intro_Surveillance_student.pdf)
+* [Introduction & Surveillance Goals](../main/Slides/Intro_Surveillance_student.pdf) [paper1](../main/References/Intro_Climate.pdf)
 * [Case-based Surveillance Methods](../main/Slides/Surveillance_Types_student.pdf)
 * [Serological Surveillance](../main/Slides/Serosurveillance.pdf)
 * [Wildlife/Veterinary Surveillance](../main/Slides/Animal_Surveillance_student.pdf)
-* [Molecular & Genomic Surveillance](../main/Slides/MolGen_Surveillance_student.pdf)
+* [Molecular & Genomic Surveillance](../main/Slides/MolGen_Surveillance_student.pdf) [paper1](../main/References/MolGen_Campylobacter.pdf) [paper2](../main/References/MolGen_H5N1.pdf)
 * [Tracking Vaccination & Vaccine-Preventable Disease](../main/Slides/Vaccine_Surveillance_student.pdf)
-* [Surveillance Assessment & Evaluation](../main/Slides/Surveillance_Assessment_student.pdf)
-* [Assessment Case Studies](../main/Slides/Assessment_Examples_student.pdf)
+* [Surveillance Assessment & Evaluation](../main/Slides/Surveillance_Assessment_student.pdf) [paper1](../main/References/Assess_Sensitivity.pdf)
+* [Assessment Case Studies](../main/Slides/Assessment_Examples_student.pdf) [paper1](../main/References/Assess_CS_EWARS.pdf) [paper2](../main/References/Assess_CS_USData.pdf)
 * [Practice Assessment of Cholera Surveillance in Bangladesh](../main/Slides/Bangladesh_Assessment_student.pdf)
 
 We expect that participants will have some experience in statistical programming. We will start with a slow introduction to R, and build useful skills for exploration and analysis of public health surveillance data. This will include two assignments for self-guided practice with R. Topics will include:
