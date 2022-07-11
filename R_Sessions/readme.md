@@ -17,5 +17,6 @@ The datasets used can be found here[../main/R_Sessions/Data]. The code for each 
 * Time Series & Forecasting {[code](../main/R_Sessions/Code/forecasting.R)}
 
 You will need to install the following packages:
-
-colorist, RColorBrewer, haven, xlsx, tidyverse, reshape2, ggplot2, datasets, sf, maps, data.table, viridis, scales, forecast, surveillance, slider, feasts
+- colorist, RColorBrewer, haven, xlsx, tidyverse, reshape2, ggplot2, datasets, sf, maps, data.table, viridis, scales, forecast, surveillance, slider, feasts
+- *install.packages(c("colorist", "RColorBrewer", "haven", "xlsx", "tidyverse", "reshape2", "ggplot2", "datasets", "sf", "maps", "data.table", "viridis", "scales", "forecast", "surveillance", "slider", "feasts"))*
+   
