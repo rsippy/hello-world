@@ -1,6 +1,6 @@
 # R Lessons
 
-The datasets used can be found [here](../workshop/R_Sessions/Data). There are some slides related to these topics; these can be found in the slides for the main sessions [here](../main/workshop/R_Sessions/Slides). The code for each session is as follows:
+The datasets used can be found [here](../Data). There are some slides related to these topics; these can be found in the slides for the main sessions [here](../main/workshop/Slides). The code for each session is as follows:
 
 * Introduction to R {[code](../main/workshop/R_Sessions/Code/practice_day1.R)} 
 * Basic Commands in R {[code_1](../main/workshop/R_Sessions/Code/practice.R)} {[code_2](../main/workshop/R_Sessions/Code/practice_day2.R)}
