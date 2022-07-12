@@ -1,14 +1,14 @@
 # R Lessons
 
-The datasets used can be found [here](../Data). There are some slides related to these topics; these can be found in the slides for the main sessions [here](../main/workshop/Slides). The code for each session is as follows:
+The datasets used can be found [here](../Data). There are some slides related to these topics; these can be found in the slides for the main sessions [here](../Slides). The code for each session is as follows:
 
-* Introduction to R {[code](../main/workshop/R_Sessions/Code/practice_day1.R)} 
-* Basic Commands in R {[code_1](../main/workshop/R_Sessions/Code/practice.R)} {[code_2](../main/workshop/R_Sessions/Code/practice_day2.R)}
-* Data Preparation (self-guided {[pdf](../main/workshop/R_Sessions/worksheet1.pdf)} {[html](../main/workshop/R_Sessions/worksheet1.html)} {[solutions](../main/workshop/R_Sessions/worksheet1_sol.html)})
-* Exploratory Analysis (self-guided {[pdf](../main/workshop/R_Sessions/worksheet2.pdf)} {[html](../main/workshop/R_Sessions/worksheet2.html)} {[solutions](../main/workshop/R_Sessions/worksheet2_sol.html)}) 
-* Tidyverse {[code](../main/workshop/R_Sessions/Code/tidyverse.R)}
-* Visualization & Plotting with ggplot2 {[code](../main/workshop/R_Sessions/Code/plots.R)}
-* Mapping {[code](../main/workshop/R_Sessions/Code/mapping.R)}
+* Introduction to R {[code](Code/practice_day1.R)} 
+* Basic Commands in R {[code_1](Code/practice.R)} {[code_2](Code/practice_day2.R)}
+* Data Preparation (self-guided {[pdf](worksheet1.pdf)} {[html](worksheet1.html)} {[solutions](worksheet1_sol.html)})
+* Exploratory Analysis (self-guided {[pdf](worksheet2.pdf)} {[html](worksheet2.html)} {[solutions](worksheet2_sol.html)}) 
+* Tidyverse {[code](Code/tidyverse.R)}
+* Visualization & Plotting with ggplot2 {[code](Code/plots.R)}
+* Mapping {[code](Code/mapping.R)}
 * Time Series & Forecasting {[code](Code/forecasting.R)}
 
 You will need to install the following packages:
@@ -21,8 +21,8 @@ R can be a challenge to learn, especially if you've never worked in any programm
 
 ## Visualization
 
-* [Tips for Data Visualization](../main/workshop/R_Sessions/References): general principles
-* [Color Names in R](../main/workshop/R_Sessions/References/Rcolor.pdf): referencing colors in R
+* [Tips for Data Visualization](References): general principles
+* [Color Names in R](References/Rcolor.pdf): referencing colors in R
 * [From Data to Viz](https://www.data-to-viz.com/): choosing the correct visualization
 * [R Graph Gallery](https://r-graph-gallery.com/): compendium of figures and accompanying code
 * [ggplot Reference Guide](https://ggplot2.tidyverse.org/): nice cheatsheets on opening page
