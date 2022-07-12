@@ -9,7 +9,7 @@ The datasets used can be found [here](../Data). There are some slides related to
 * Tidyverse {[code](../main/workshop/R_Sessions/Code/tidyverse.R)}
 * Visualization & Plotting with ggplot2 {[code](../main/workshop/R_Sessions/Code/plots.R)}
 * Mapping {[code](../main/workshop/R_Sessions/Code/mapping.R)}
-* Time Series & Forecasting {[code](../main/workshop/R_Sessions/Code/forecasting.R)}
+* Time Series & Forecasting {[code](R_Sessions/Code/forecasting.R)}
 
 You will need to install the following packages:
 - colorist, RColorBrewer, haven, xlsx, tidyverse, reshape2, ggplot2, datasets, sf, maps, data.table, viridis, scales, forecast, surveillance, slider, feasts
