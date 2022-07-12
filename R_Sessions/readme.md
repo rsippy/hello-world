@@ -1,11 +1,4 @@
-# Working with R
-
-R can be a challenge to learn, especially if you've never worked in any programming languages in the past. I've linked some references [here](../main/R_Sessions/References) and below to help you practice and some cheat sheets to help you remember bits of code.
-
-* [Tips for data visualization](../main/R_Sessions/References)
-* [Color names in R](../main/R_Sessions/References/Rcolor.pdf)
-* [The Epidemiologist R Handbook](https://appliedepi.org/epirhandbook/): nearly everything an epidemiologist might want to do in R
-* [Forecasting Principles & Practice](https://otexts.com/fpp2/intro.html): an excellent resource to learn more about forecasting theory with code
+# R Lessons
 
 The datasets used can be found [here](../main/R_Sessions/Data). There are some slides related to these topics; these can be found in the slides for the main sessions [here](../main/R_Sessions/Slides). The code for each session is as follows:
 
@@ -21,4 +14,21 @@ The datasets used can be found [here](../main/R_Sessions/Data). There are some s
 You will need to install the following packages:
 - colorist, RColorBrewer, haven, xlsx, tidyverse, reshape2, ggplot2, datasets, sf, maps, data.table, viridis, scales, forecast, surveillance, slider, feasts
 - *install.packages(c("colorist", "RColorBrewer", "haven", "xlsx", "tidyverse", "reshape2", "ggplot2", "datasets", "sf", "maps", "data.table", "viridis", "scales", "forecast", "surveillance", "slider", "feasts"))*
-   
+
+# R References
+
+R can be a challenge to learn, especially if you've never worked in any programming languages in the past. I've linked some references [here](../main/R_Sessions/References) and below to help you practice and some cheat sheets to help you remember bits of code.
+
+## Visualization
+
+* [Tips for Data Visualization](../main/R_Sessions/References): general principles
+* [Color Names in R](../main/R_Sessions/References/Rcolor.pdf): referencing colors in R
+* [From Data to Viz](https://www.data-to-viz.com/): choosing the correct visualization
+* [R Graph Gallery](https://r-graph-gallery.com/): compendium of figures and accompanying code
+* [ggplot Reference Guide](https://ggplot2.tidyverse.org/): nice cheatsheets on opening page
+
+## Handbooks & Texts
+
+* [The Epidemiologist R Handbook](https://appliedepi.org/epirhandbook/): nearly everything an epidemiologist might want to do in R
+* [Forecasting Principles & Practice](https://otexts.com/fpp2/intro.html): an excellent resource to learn more about forecasting theory with code
+* [R for Data Science](https://r4ds.had.co.nz/): data manipulation, simple models, and visualization in tidyverse
