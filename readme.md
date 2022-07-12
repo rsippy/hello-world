@@ -19,7 +19,7 @@ Zoom sessions will be recorded and shared after each class. Please email/WhatsAp
 There is an introductory session followed by a series of sessions for more in-depth discussion of public health surveillance. We will start with traditional surveillance methods followed by additional surveillance strategies. The following schedule may be revised depending on availability of instructors and modifications to improve learning/provide additional practice. If there are updates to the schedule, they will be announced and sent via email. 
 
 * [Review of 2021 Modeling Workshop](Slides/Modeling_for_Public_Health_Review_student.pdf)
-* [Introduction & Surveillance Goals](Slides/Intro_Surveillance_student.pdf) [paper1](References/Intro_Climate.pdf)
+* [Introduction & Surveillance Goals](Slides/Intro_Surveillance_student.pdf) {[paper1](References/Intro_Climate.pdf)}
 * [Case-based Surveillance Methods](Slides/Surveillance_Types_student.pdf)
 * [Serological Surveillance](Slides/Serosurveillance.pdf)
 * [Wildlife/Veterinary Surveillance](Slides/Animal_Surveillance_student.pdf)
