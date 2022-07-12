@@ -17,7 +17,7 @@ You will need to install the following packages:
 
 # R References
 
-R can be a challenge to learn, especially if you've never worked in any programming languages in the past. I've linked some references [here](../main/workshop/R_Sessions/References) and below to help you practice and some cheat sheets to help you remember bits of code.
+R can be a challenge to learn, especially if you've never worked in any programming languages in the past. I've placed some references [here](References/) and below to help you practice and some cheat sheets to help you remember bits of code.
 
 ## Visualization
 
