@@ -31,20 +31,20 @@ There is an introductory session followed by a series of sessions for more in-de
 
 We expect that participants will have some experience in statistical programming. We will start with a slow introduction to R, and build useful skills for exploration and analysis of public health surveillance data. This will include two assignments for self-guided practice with R. Topics will include:
 
-* Introduction to R {[code](../R_Sessions/Code/practice_day1.R)}
-* Basic Commands in R {[code_1](../R_Sessions/Code/practice.R)} {[code_2](../R_Sessions/Code/practice_day2.R)}
-* Data Preparation (self-guided {[pdf](../R_Sessions/worksheet1.pdf)} {[html](../R_Sessions/worksheet1.html)} {[solutions](../R_Sessions/worksheet1_sol.html)})
-* Exploratory Analysis (self-guided {[pdf](../R_Sessions/worksheet2.pdf)} {[html](../R_Sessions/worksheet2.html)} {[solutions](../R_Sessions/worksheet2_sol.html)})
-* Tidyverse {[code](../R_Sessions/Code/tidyverse.R)}
-* Visualization & Plotting with ggplot2 {[code](../R_Sessions/Code/plots.R)}
-* Mapping {[code](../R_Sessions/Code/mapping.R)}
-* Time Series & Forecasting {[code](../R_Sessions/Code/forecasting.R)}
+* Introduction to R {[code](R_Sessions/Code/practice_day1.R)}
+* Basic Commands in R {[code_1](R_Sessions/Code/practice.R)} {[code_2](R_Sessions/Code/practice_day2.R)}
+* Data Preparation (self-guided {[pdf](R_Sessions/worksheet1.pdf)} {[html](R_Sessions/worksheet1.html)} {[solutions](R_Sessions/worksheet1_sol.html)})
+* Exploratory Analysis (self-guided {[pdf](R_Sessions/worksheet2.pdf)} {[html](R_Sessions/worksheet2.html)} {[solutions](R_Sessions/worksheet2_sol.html)})
+* Tidyverse {[code](R_Sessions/Code/tidyverse.R)}
+* Visualization & Plotting with ggplot2 {[code](R_Sessions/Code/plots.R)}
+* Mapping {[code](R_Sessions/Code/mapping.R)}
+* Time Series & Forecasting {[code](R_Sessions/Code/forecasting.R)}
 
 ## Pre-course preparation
-- Install or update **R program** (R version 3.5.2) and **RStudio** (1.2.5033). A brief guide to installing R, RStudio, and packages can be found [here](../R_Sessions/Installation_guide_R.pdf).
+- Install or update **R program** (R version 3.5.2) and **RStudio** (1.2.5033). A brief guide to installing R, RStudio, and packages can be found [here](R_Sessions/Installation_guide_R.pdf).
 - Install the necessary R packages:
    - colorist, RColorBrewer, haven, xlsx, tidyverse, reshape2, ggplot2, datasets, sf, maps, data.table, viridis, scales, forecast, slider, feasts
    - *install.packages(c("colorist", "RColorBrewer", "haven", "xlsx", "tidyverse", "reshape2", "ggplot2", "datasets", "sf", "maps", "data.table", "viridis", "scales", "forecast", "slider", "feasts"))*
 - Download the course material
-   - [Datasets](../R_Sessions/Data)
-   - [R code](../R_Sessions/Code)
+   - [Datasets](R_Sessions/Data)
+   - [R code](R_Sessions/Code)
