@@ -21,7 +21,7 @@ R can be a challenge to learn, especially if you've never worked in any programm
 
 ## Visualization
 
-* [Tips for Data Visualization](References): general principles
+* [Tips for Data Visualization](References/krzyzinski_wojciechowski_zolkowski.pdf): general principles
 * [Color Names in R](References/Rcolor.pdf): referencing colors in R
 * [From Data to Viz](https://www.data-to-viz.com/): choosing the correct visualization
 * [R Graph Gallery](https://r-graph-gallery.com/): compendium of figures and accompanying code
